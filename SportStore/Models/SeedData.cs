@@ -68,14 +68,14 @@ namespace SportStore.Models
 					},
 					new Product
 					{
-						Name = "Кроссовки",
+						Name = "Лыжи",
 						Description = "Беговые",
 						Category = "Спорт",
-						Price = 800
+						Price = 12000
 					},
                     new Product
                     {
-                        Name = "Шапка резина",
+                        Name = "Шапка Синяя для Бассейна ",
                         Description = "Бассейн",
                         Category = "Спорт",
                         Price = 300
